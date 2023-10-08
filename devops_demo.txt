@@ -1,1 +1,2 @@
 text added in new feature branch
+new text added
